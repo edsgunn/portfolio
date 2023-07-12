@@ -1,6 +1,6 @@
 {
   "name": "edsgunn.github.io",
-  "homepage": "https://edsgunn.github.io/public",
+  "homepage": "https://edsgunn.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
